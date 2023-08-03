@@ -1,4 +1,4 @@
-# Product_Dashboard
+# BI_Sales_Performance_Dashboard
 
 The dashboard creates for retail companies and shows the basic information and trend in products and sales using measures and DAX in PowerBI.
 Apart from that, it shows the valuable customers and their preferences which will help the business department to make a sale and promotional plan.
